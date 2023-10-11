@@ -1,1 +1,1 @@
-# Image-search-gallary
+# Image-search-gallery
